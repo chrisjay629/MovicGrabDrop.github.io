@@ -99,7 +99,7 @@ a {
 	text-decoration: none;
 }
 a:hover {
-	background: url(../_images/diag_pattern.png);
+	background: url(../images/diag_pattern.png);
 }
 p {
 	margin-bottom: 1em;
@@ -188,7 +188,7 @@ footer {
   background-repeat: no-repeat;
    background-size: contain;
 
-	background: black url(../_images/ChrisJauregui2.jpg);
+	background: black url(/Users/christopherjauregui/Desktop/MovieEdit1.io/ChrisJauregui2.jpg);
 	z-index: 6;
 	margin: 0;
 }
@@ -229,31 +229,31 @@ footer {
 /*page-specific header styles*/
 .homeHeader {
 	height: 388px;
-	background: url(../_images/main_back.jpg) no-repeat;
+	background: url(../images/main_back.jpg) no-repeat;
 }
 .programHeader {
 	height: 192px;
-	background: url(../_images/design.jpg) no-repeat;
+	background: url(../images/design.jpg) no-repeat;
 }
 .aboutHeader {
 	height: 192px;
-	background: url(../_images/accent2.jpg) no-repeat;
+	background: url(../images/accent2.jpg) no-repeat;
 }
 .graphicHeader {
 	height: 192px;
-	background: url(../_images/accent3.jpg);
+	background: url(../images/accent3.jpg);
 }
 .requestHeader {
 	height: 192px;
-	background: url(../_images/accent1.jpg) no-repeat;
+	background: url(../images/accent1.jpg) no-repeat;
 }
 .errorHeader {
 	height: 192px;
-	background: url(../_images/accent4.jpg) no-repeat;
+	background: url(../images/accent4.jpg) no-repeat;
 }
 .blogHeader {
 	height: 339px;
-	background: url(../_images/2.jpg);
+	background: url(../images/2.jpg);
 }
 p.branding {
 	background:red;
@@ -281,7 +281,7 @@ section.info {
 }
 section.info h2 {
 	color: white;
-	background: url(../_images/diag_pattern.png);
+	background: url(../images/diag_pattern.png);
 	line-height: 45px;
 	padding-left: .6em;
 	font-family: Bitter, Georgia, Times, "Times New Roman", serif;
@@ -305,7 +305,7 @@ section.info li a {
 	background-color:red;
 }
 section.info li a:hover {
-	/* [disabled]background: url(../_images/diag_pattern.png); */
+	/* [disabled]background: url(../images/diag_pattern.png); */
 }
 
 section.info .date {
@@ -332,7 +332,7 @@ section.condense:hover {
 }
 section.condense:after {
 	content: " ";
-	background: url(../_images/hover.png) no-repeat right top;
+	background: url(../images/hover.png) no-repeat right top;
 	width: 30px;
 	height: 45px;
 	position: absolute;
@@ -380,16 +380,16 @@ section.connect li {
 	margin-right: 0;
 }
 a.twitter {
-	background: url(../_images/icon_twitter.png) no-repeat;
+	background: url(../images/icon_twitter.png) no-repeat;
 }
 a.google {
-	background: url(../_images/icon_google.png) no-repeat;
+	background: url(../images/icon_google.png) no-repeat;
 }
 a.facebook {
-	background: url(../_images/icon_facebook.png) no-repeat;
+	background: url(../images/icon_facebook.png) no-repeat;
 }
 a.linked {
-	background: url(../_images/icon_linked.png) no-repeat;
+	background: url(../images/icon_linked.png) no-repeat;
 }
 section.find {
 	background: rgb(2, 99, 174);
@@ -520,7 +520,7 @@ div.artwork img {
 }
 div.artwork p {
 	line-height: 32px;
-	background: url(../_images/diag_pattern.png);
+	background: url(../images/diag_pattern.png);
 	color: white;
 	font-size: .8em;
 	text-align: right;
@@ -609,7 +609,7 @@ input:focus, textarea:focus {
 	border: 2px solid rgb(168, 88, 163);
 }
 input[type="submit"] {
-	background: url(../_images/search.png) no-repeat center center;
+	background: url(../images/search.png) no-repeat center center;
 	border: none;
 	cursor: pointer;
 	width: 35px;
@@ -693,7 +693,7 @@ footer .col2 {
 	padding-bottom: 5px;
 }
 #blogPage #contentWrapper {
-	/*background: url(../_images/blog_content_bg.png) repeat-y left top;*/
+	/*background: url(../images/blog_content_bg.png) repeat-y left top;*/
   background: rgb(217, 71, 82);
 	width: 960px;
 	overflow: hidden;
@@ -718,7 +718,7 @@ footer .col2 {
 	color: #FFF;
 }
 #blogPage aside a:hover, #blogPage aside a:active {
-	background: url(../_images/diag_pattern.png);
+	background: url(../images/diag_pattern.png);
 	color: #FBAE2C;
 }
 /* Phone */
