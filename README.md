@@ -1,5 +1,5 @@
 # MoviePicDrop.io
-Allows you to slecet your price to spend on A show , highlihgt shows in that price range. The store with a drag and drop function the will hold the data of your favorite shows selected.
+Allows you to slecet your price to spend on A show , highlihgts shows in that price range. Then store with a drag and drop function that will hold the data of your favorite shows selected.
 
   Demo : https://chrisjay629.github.io/MovieGrabDrop.github.io/
   
