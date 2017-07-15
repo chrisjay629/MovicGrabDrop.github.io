@@ -182,13 +182,13 @@ footer {
 }
 
 /*Header styles*/
-.pageHeader h1{
-  width: 16%;
+.pageHeader h1 img{
+  width: 16.5%;
    height: 145px;
-  background-repeat: no-repeat;
-   background-size: contain;
+  /*background-repeat: no-repeat;*/
+   /*background-size: contain;*/
 
-	background: black url(/Users/christopherjauregui/Desktop/MovieEdit1.io/ChrisJauregui2.jpg);
+	/*background: black url(images/ChrisJauregui2.jpg);*/
 	z-index: 6;
 	margin: 0;
 }
